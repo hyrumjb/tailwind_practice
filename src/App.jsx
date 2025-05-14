@@ -8,7 +8,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route path="/tailwind-practice/" element={<Home />} />
+        <Route path="/tailwind_practice/" element={<Home />} />
       </Routes>
       <Footer />
     </>

@@ -3,7 +3,7 @@ import '../App.css';
 function Home() {
     return (
         <>
-            <h2>Welcome to some TailwindCSS Practice</h2>
+            <h2>Welcome to some Tailwind CSS Practice</h2>
             <p>Some of these come into one's life naturally, like parents, family members,
                 and the people in one's general vicinity. Unfortunately, many people are somewhat lacking
                 in this category and never seem to have a grasp on where they could go or what they could be.
