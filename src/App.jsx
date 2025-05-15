@@ -5,13 +5,13 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <>
+    <body className="bg-blue-50">
       <Header />
       <Routes>
         <Route path="/tailwind_practice/" element={<Home />} />
       </Routes>
       <Footer />
-    </>
+    </body>
   );
 }
 
